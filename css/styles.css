@@ -61,6 +61,9 @@ color: #434455;}
     color: #404BBF;
 }
 /* MAIN CONTENT */
+.main-background {
+    background-color: #2E2F42;
+}
 .main-head {
     text-align: center;
    
@@ -74,8 +77,7 @@ color: #434455;}
     /* 107.143% */
     letter-spacing: 0.02em;
 color:#FFFFFF;}
-.main-bg {background-color:  #2E2F42;
-}
+
 /* about us */
 
 
@@ -170,5 +172,5 @@ color: #2E2F42;}
     font-weight: 400;
     line-height: 1.5;
     /* 150% */
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
 color: #F4F4FD;}
