@@ -81,7 +81,7 @@ color:#FFFFFF;}
 /* about us */
 
 
-.our-menu-item-name 
+.made-menu-item-name 
 {/* Header 3 */
 font-size: 20px;
 font-weight: 500;
@@ -89,7 +89,7 @@ line-height: 1.2;
 /* 120% */
 letter-spacing: 0.02em;
 color:#2E2F42;}
-.our-menu-item-text {
+.made-menu-item-text {
     /* Body */
 
     font-size: 16px;
@@ -101,7 +101,7 @@ color:#2E2F42;}
 
         color: #434455;}
 /* team */
-.team-bgnd {background: #F4F4FD;}
+.team-background {background-color:  #F4F4FD;}
 .team-head {
     text-align: center;
     /* Header 2 */
